@@ -1,7 +1,7 @@
 
 import { ReturnBook } from "./ReturnBook";
 import { useEffect, useState } from "react";
-import BookModel from "../../../model/BookModel";
+import BookModel from "../../../models/BookModel";
 import React from "react";
 import { SpinnerLoading } from "../../../utils/SpinnerLoading";
 
